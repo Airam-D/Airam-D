@@ -6,6 +6,10 @@
 
 Estudante do 2º ano do Ensino Médio na **Escola SESI** e do curso técnico de Desenvolvimento de Sistemas no **SENAI**. Minha paixão pela programação começou cedo, pela curiosidade de entender como os sites são construídos. Desde então, busco conhecimento e me dedico para criar projetos inovadores.
 
+---
+
+### Curiosidades
+
 * Estudante do Ensino Médio e SENAI
 * Criatividade para desenvolver projetos
 * Facilidade para aprender novas tecnologias
@@ -28,9 +32,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### Algumas Curiosidades ✨
 
-* **[Fora da Programação]:** Fora do mundo da programação gosto de assistir vídeos para que ue consia ampliar meu conhecimento sobre tecnologia, além disso gosto de praticar esportes
-* **[Minha Meta]:** Minha meta como profissional é conseguir construir uma grande empresa de tecnologia, criando projetos inovadores que mudam o jeito que usamos a tecnologia 
-* **[Primeira Linguagem]:** Graças a aula do SENAI, minha primeira linguagem foi python, onde conseguir aprender o básico, hoje em dia venho ampliando meu conhecimeto com vídeo aulas.
+* **Fora da Programação:** Fora do mundo da programação gosto de assistir vídeos para que ue consia ampliar meu conhecimento sobre tecnologia, além disso gosto de praticar esportes
+* **Minha Meta:** Minha meta como profissional é conseguir construir uma grande empresa de tecnologia, criando projetos inovadores que mudam o jeito que usamos a tecnologia 
+* **Primeira Linguagem:** Graças a aula do SENAI, minha primeira linguagem foi python, onde conseguir aprender o básico, hoje em dia venho ampliando meu conhecimeto com vídeo aulas.
   
 ---
 
@@ -38,7 +42,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### Meu Portfólio 💼
 
-Confira mais detalhes sobre meus projetos e habilidades em meu portfólio: (https://airamdavilla.vercel.app/)
+Confira mais detalhes sobre meus projetos e habilidades em meu portfólio: https://airamdavilla.vercel.app/
 
 ---
 
