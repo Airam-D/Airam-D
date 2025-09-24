@@ -1,7 +1,5 @@
 <h1 align="center">Olá, sou o Airam D' Avilla 🚀</h1>
 
----
-
 ### Sobre Mim 👋
 
 Estudante do 2º ano do Ensino Médio na **Escola SESI** e do curso técnico de Desenvolvimento de Sistemas no **SENAI**. Minha paixão pela programação começou cedo, pela curiosidade de entender como os sites são construídos. Desde então, busco conhecimento e me dedico para criar projetos inovadores.
