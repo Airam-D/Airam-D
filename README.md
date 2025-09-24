@@ -55,4 +55,13 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
   
 ---
 
+### Estatísticas do GitHub 📊
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airam-D&show_icons=true&theme=dracula&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airam-D&layout=compact&theme=dracula&hide=Jupyter%20Notebook"/>
+</div>
+
+---
+
 > Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e presenciar minha evolução cotidiana 🚀
