@@ -37,7 +37,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ### Meu Portfólio 💼
 
-Confira mais detalhes sobre meus projetos e habilidades em meu portfólio: [https://airamdavilla.vercel.app/](https://airamdavilla.vercel.app/)
+Confira mais detalhes sobre meus projetos e habilidades em meu portfólio: (https://airamdavilla.vercel.app/)
 
 ---
 
