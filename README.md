@@ -55,8 +55,8 @@ Meu foco é construir aplicações escaláveis e intuitivas, unindo o poder do B
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Projeto 1](https://github.com/Airam-D/Calculadora)** | Uma breve frase explicando o problema que este projeto resolve. | `Math.js` `JavaScript` |
-| **[LP Noctis](https://github.com/Airam-D/Landing-Page)** | Descrição curta de um sistema backend ou automação que você criou. | `JavaScript` `HTML5` |
+| **[Calculadora Web](https://github.com/Airam-D/Calculadora)** | Aplicação com modos básico e científico, focada em manipulação de DOM e lógica funcional responsiva. | `Math.js` `JavaScript` |
+| **[LP Noctis](https://github.com/Airam-D/Landing-Page)** | Landing Page de alto padrão com foco em design minimalista, responsividade e técnicas avançadas de UX/UI. | `JavaScript` `HTML5` |
 | **[Meu Portfólio](https://airamdavilla.vercel.app/)** | Web App pessoal construído para exibir minhas competências e projetos. | `HTML` `JavaScript` |
 
 ---
