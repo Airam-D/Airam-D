@@ -47,17 +47,17 @@ Meu foco é construir aplicações escaláveis e intuitivas, unindo o poder do B
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Projetos em Destaque
+*Aqui estão alguns dos desafios que transformei em código:*
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airam-D&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airam-D&layout=compact&langs_count=7&theme=radical"/>
-</div>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[Projeto 1](https://github.com/Airam-D/Calculadora)** | Uma breve frase explicando o problema que este projeto resolve. | `Math.js` `JavaScript` |
+| **[LP Noctis](https://github.com/Airam-D/Landing-Page)** | Descrição curta de um sistema backend ou automação que você criou. | `JavaScript` `HTML5` |
+| **[Meu Portfólio](https://airamdavilla.vercel.app/)** | Web App pessoal construído para exibir minhas competências e projetos. | `HTML` `JavaScript` |
 
 ---
 
@@ -78,4 +78,4 @@ Deseja conversar sobre algum projeto ou oportunidade?
 
 <p align="center">
   <i>"A melhor forma de prever o futuro é inventando-o."</i>
-</p>F
+</p>
