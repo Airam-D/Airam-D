@@ -40,13 +40,15 @@ Meu foco é construir aplicações escaláveis e intuitivas, unindo o poder do B
 #### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### **Ferramentas**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 
 ---
 
@@ -62,7 +64,7 @@ Meu foco é construir aplicações escaláveis e intuitivas, unindo o poder do B
 ### 🌟 Curiosidades & Hobbies
 
 * ⚽ **Esportes:** Praticar esportes é meu combustível para manter o foco nos estudos.
-* 📚 **Aprendizado:** Consumo conteúdo sobre arquitetura de software e novos gadgets diariamente.
+* 📚 **Aprendizado:** Consumo conteúdo sobre tecnologia e novos gadgets diariamente para ampliar minha visão de mercado.
 * 🎯 **Primeira Linha de Código:** Foi em Python nas salas do SENAI, onde descobri que programação seria minha profissão.
 
 ---
@@ -73,8 +75,7 @@ Deseja conversar sobre algum projeto ou oportunidade?
 
 * **LinkedIn:** [/in/airam-davilla](https://www.linkedin.com/in/airam-davilla-94551a382/)
 * **Site Pessoal:** [airamdavilla.vercel.app](https://airamdavilla.vercel.app/)
-* **E-mail:** [Seu Email Aqui]
 
 <p align="center">
   <i>"A melhor forma de prever o futuro é inventando-o."</i>
-</p>
+</p>F
